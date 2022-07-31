@@ -2,6 +2,8 @@
 
 I'm Carlos, Software developer from Costa Rica 🇨🇷
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/carum98/carum98/blob/master/devcard.svg" width="400" alt="Carlos Umaña Acevedo's Dev Card"/></a>
+
 
 📊 **This Week I Spent My Time On** 
 
