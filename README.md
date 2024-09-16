@@ -6,7 +6,7 @@ I'm Carlos, Software developer from Costa Rica 🇨🇷
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C362%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C363%20hrs%204%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
